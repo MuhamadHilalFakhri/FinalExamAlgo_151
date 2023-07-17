@@ -144,4 +144,4 @@ int main() {
 //2.Linear search untuk cari produk,queue untuk menampilkan produk,quick sort untuk sort produk dari terkecil,singlelinked list nambah produk
 //4.ketika ingin menyimpan elemen dalam urutan terbalik, contoh undo-redo
 //5.a.5
-//  b.preorder = kiri->kanan
+//  b.preorder = kiri->kanan 
